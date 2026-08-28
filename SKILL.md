@@ -1,6 +1,6 @@
 ---
 name: lazycat-app-feasibility
-description: Assess whether an open-source project, Docker application, Web application, or new feature can be delivered on Lazycat MicroServer as an LPK, and provide evidence-based conclusions, platform mapping, adaptation scope, POC thresholds, and an implementation path. Trigger when the user asks “Can this be ported to Lazycat MicroServer?”, “Can this application be made into a Lazycat App?”, whether a permission or SDK can support a requirement, or how to package, deploy, integrate OIDC, support multiple instances, access files or databases, and similar questions.
+description: Assess whether open-source, Docker, Web, or feature projects can ship on Lazycat MicroServer as LPKs, covering platform fit, required adaptations, permissions, and POC planning.
 ---
 
 # Lazycat MicroServer Application Feasibility Assessment and Delivery Guide
