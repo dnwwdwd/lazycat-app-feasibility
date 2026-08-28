@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lazycat App Feasibility"
+  short_description: "Evidence-based Lazycat MicroServer feasibility guidance"
+  default_prompt: "Use $lazycat-app-feasibility to assess whether this project or feature can be delivered as a Lazycat MicroServer LPK app."
